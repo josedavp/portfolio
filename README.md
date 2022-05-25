@@ -6,4 +6,4 @@
   <li> Displays resume </li> 
 </ul>
 Lacks a proper *Contact Form* as of now. But will be fixed soon along with a simpler Domain Name.
-Incomplete Website that will be periodically updated as I improve my education, experience, and abilities. 
+Incomplete Website that will be periodically updated.
