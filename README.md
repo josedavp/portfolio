@@ -1,6 +1,6 @@
 # My Portfolio
 
-[Link to this site](https://ec2-3-144-126-3.us-east-2.compute.amazonaws.com/portfolio/index.html "Link to this site")
+[portfolio](https://ec2-3-144-126-3.us-east-2.compute.amazonaws.com/portfolio/index.html "Link to this site")
 
 *Goals*
 <ul>
