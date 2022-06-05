@@ -9,6 +9,6 @@
   <li> Displays resume </li> 
 </ul>
 
-Lacks a proper **Contact Form** as of now. Fixing that soon along with a simpler Domain Name and other pending improvements.
+Lacks a proper **Contact Form** as of now. Fixing that soon along with a simple Domain Name and other pending improvements.
 
 Incomplete Website that will be periodically updated.
